@@ -1,5 +1,5 @@
 # E-commerce-Purchases-Casestudy-Using-Pandas
-#Overview
+# Overview
 - This project showcases data analysis techniques using the pandas library in Python. It demonstrates various operations and manipulations performed on a dataset to extract valuable insights. The project is designed to catch the attention of recruiters and hiring managers in the field of data science.
 
 # Key Features
